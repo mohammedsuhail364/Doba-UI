@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Doba-UI/static/css/main.7c39b2b5.css",
+    "main.js": "/Doba-UI/static/js/main.797a73b4.js",
+    "static/media/login.png": "/Doba-UI/static/media/login.da0eae66d1cd5201be81.png",
+    "index.html": "/Doba-UI/index.html",
+    "main.7c39b2b5.css.map": "/Doba-UI/static/css/main.7c39b2b5.css.map",
+    "main.797a73b4.js.map": "/Doba-UI/static/js/main.797a73b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c39b2b5.css",
+    "static/js/main.797a73b4.js"
+  ]
+}
